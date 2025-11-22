@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer Resident Checker", "Observer Resident Checker.csproj", "{C892ACD9-DC2A-42E8-9028-C7FA4903CB40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C892ACD9-DC2A-42E8-9028-C7FA4903CB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C892ACD9-DC2A-42E8-9028-C7FA4903CB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C892ACD9-DC2A-42E8-9028-C7FA4903CB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C892ACD9-DC2A-42E8-9028-C7FA4903CB40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA345BD6-76AD-48BD-B267-7BA596DA28FC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paradox 100", "Paradox 100.csproj", "{415C554A-F974-4674-95AB-4073D30A5276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{415C554A-F974-4674-95AB-4073D30A5276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415C554A-F974-4674-95AB-4073D30A5276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415C554A-F974-4674-95AB-4073D30A5276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415C554A-F974-4674-95AB-4073D30A5276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A2944BA-F68B-472B-A55E-6BD69D408611}
+	EndGlobalSection
+EndGlobal
